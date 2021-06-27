@@ -1,0 +1,4 @@
+rootProject.name = "Lesson_1_6"
+include ':app'
+include ':app:lesson_1_6_1'
+include ':app:exerciseone'
